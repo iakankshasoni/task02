@@ -5,7 +5,7 @@ CRUD System for managing students records.
 
 This is a simple **Java-based CLI application** to perform CRUD operations (Create, Read, Update, Delete) on student records.
 
-## 🧾 Features
+## Features
 
 - Add new student records
 - View all student records
@@ -13,18 +13,18 @@ This is a simple **Java-based CLI application** to perform CRUD operations (Crea
 - Delete a student record
 - Exit the application
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java
 - ArrayList from Java Collections Framework
 - Object-Oriented Programming (Encapsulation, Classes, Objects)
 
-## 📁 Files Included
+## Files Included
 
 - `Student.java` — Class representing the student entity.
 - `StudentManagement.java` — Main application with a command-line menu.
 
-## ▶️ How to Run
+## How to Run
 
 1. Open terminal or command prompt.
 2. Compile the files:
@@ -36,7 +36,7 @@ This is a simple **Java-based CLI application** to perform CRUD operations (Crea
    java StudentManagement
    ```
 
-## 📸 Sample Output
+## Sample Output
 
 ```
 --- Student Record Management System ---
@@ -48,9 +48,13 @@ This is a simple **Java-based CLI application** to perform CRUD operations (Crea
 Enter choice:
 ```
 On choosing option 1, you can add Student's names.
+````
 On choosing option 2, you can view all the details about the students that you added.
+`````
 On choosing option 3, you can update the records of the students.
+````
 On choosing option 4, you can delete the records of the students.
+````
 On choosing option 5, you can exit form this process.
 
 
