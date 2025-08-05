@@ -47,14 +47,15 @@ This is a simple **Java-based CLI application** to perform CRUD operations (Crea
 5. Exit
 Enter choice:
 ```
+````
 On choosing option 1, you can add Student's names.
 ````
 On choosing option 2, you can view all the details about the students that you added.
-`````
+````
 On choosing option 3, you can update the records of the students.
 ````
 On choosing option 4, you can delete the records of the students.
 ````
 On choosing option 5, you can exit form this process.
-
+````
 
